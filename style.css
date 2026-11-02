@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nishi Chaudhury | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="#home" class="logo">Nishi.</a>
+
+        <div class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#education">Education</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+</header>
+
+<main>
+
+<section id="home" class="hero">
+    <div class="hero-content">
+        <p class="welcome">WELCOME TO MY PORTFOLIO</p>
+        <h1>Hello, I'm <span>Nishi Chaudhury</span></h1>
+        <h2>Computer Science & Technology Diploma Student</h2>
+        <p>
+            I am passionate about programming, web development,
+            technology and learning new skills.
+        </p>
+
+        <a href="#projects" class="btn">Explore My Projects</a>
+        <a href="#contact" class="btn btn-outline">Contact Me</a>
+    </div>
+
+    <div class="profile-circle">
+        <span>NC</span>
+        <p>My Portfolio</p>
+    </div>
+</section>
+
+<section id="about" class="section">
+    <p class="section-label">GET TO KNOW ME</p>
+    <h2>About Me</h2>
+
+    <div class="content-card">
+        <p>
+            My name is Nishi Chaudhury. I studied at
+            Burnpur Riverside School and am pursuing a
+            Diploma in Computer Science and Technology
+            at Raghunathpur Government Polytechnic College.
+        </p>
+
+        <p>
+            I enjoy learning programming, developing websites,
+            creating games and exploring new technologies.
+            My goal is to grow as a technology professional.
+        </p>
+    </div>
+</section>
+
+<section id="education" class="section">
+    <p class="section-label">MY ACADEMIC JOURNEY</p>
+    <h2>Education</h2>
+
+    <div class="card-grid">
+        <div class="content-card">
+            <h3>School Education</h3>
+            <p>Burnpur Riverside School</p>
+        </div>
+
+        <div class="content-card">
+            <h3>Diploma Education</h3>
+            <p>Raghunathpur Government Polytechnic College</p>
+            <p>Computer Science and Technology</p>
+        </div>
+    </div>
+</section>
+
+<section id="skills" class="section">
+    <p class="section-label">WHAT I KNOW</p>
+    <h2>My Technical Skills</h2>
+
+    <div class="skills-grid">
+        <div class="skill">HTML</div>
+        <div class="skill">CSS</div>
+        <div class="skill">Java</div>
+        <div class="skill">Python</div>
+        <div class="skill">JavaScript</div>
+        <div class="skill">Microsoft Word</div>
+        <div class="skill">PowerPoint</div>
+        <div class="skill">Tally 9.1</div>
+        <div class="skill">Drawing Tools</div>
+        <div class="skill">Photoshop</div>
+    </div>
+</section>
+
+<section id="projects" class="section">
+    <p class="section-label">MY WORK</p>
+    <h2>My Projects</h2>
+
+    <div class="card-grid">
+
+        <div class="project-card">
+            <span>01</span>
+            <h3>Personal Portfolio Website</h3>
+            <p>A personal website created using HTML and CSS.</p>
+            <a href="https://github.com/nishichaudhury9-web/my-portfolio"
+               target="_blank" rel="noopener">
+               View GitHub Repository →
+            </a>
+        </div>
+
+        <div class="project-card">
+            <span>02</span>
+            <h3>Snake Game</h3>
+            <p>A simple interactive snake game project.</p>
+            <p class="coming">Project link coming soon</p>
+        </div>
+
+        <div class="project-card">
+            <span>03</span>
+            <h3>Crossy Road Game</…
